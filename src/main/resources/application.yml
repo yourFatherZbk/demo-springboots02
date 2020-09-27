@@ -1,0 +1,7 @@
+offcn:
+  guangzhou: nansha
+  xian: dinghe
+  beijing: wufangqiao
+spring:
+  profiles:
+    active: dev
